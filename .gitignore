@@ -1,0 +1,4 @@
+# ignore the following files and directories
+
+data/
+info.txt
